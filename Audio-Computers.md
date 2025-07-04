@@ -1,4 +1,4 @@
-# Audio Computers: The Next Evolution in Human-Tech Interaction
+# Audio Computers
 
 ## What Are Audio Computers?
 
